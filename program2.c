@@ -14,7 +14,7 @@ int main(void){
  }
  else{ // Parent Process
    wait(&status);
-   printf("In the parent Process :/nName is U. Aliand CNIC is 30000000000000\n");
+   printf("In the parent Process :/nName is U. Aliand CNIC is 3650291755059\n");
  }
 
  return 0;
